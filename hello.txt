@@ -1,0 +1,15 @@
+for new folder
+git init
+(for initialization)
+git remote add (link)-link(fn+shift+insert)(for paste)
+git add .(add all data)
+git commit -m "message"(for file commit)
+git push origin master (push file to github remote repository,branch master)
+
+
+
+for exisiting folder
+
+git add .(add all data)
+git commit -m "message"(for file commit)
+git push origin master (push file to github remote repository,branch master)
